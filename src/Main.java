@@ -12,6 +12,7 @@ public class Main {
          char myChar = '&';
 
         //System.out.printf("%b",myBoolean);
-        System.out.printf("%c",myChar);
+        //System.out.printf("%c",myChar);
+        System.out.printf("%d",myInt);
     }
 }
