@@ -9,10 +9,9 @@ public class Main {
          String myString = "Hello";
          int myInt = 37;
          double myDouble = 1000;
-         char myChar = '&';
-
-        System.out.printf("%b",myBoolean);
-        //System.out.printf("%c",myChar);
+         char myChar = '#';
+         //System.out.printf("%b",myBoolean);
+        System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
         //System.out.printf("%f",myDouble);
         //System.out.printf("%s",myString);
