@@ -13,7 +13,7 @@ public class Main {
          //System.out.printf("%b",myBoolean);
         //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
-        System.out.printf("%f",myDouble);
+        System.out.printf("%f4",myDouble);
         //System.out.printf("%s",myString);
     }
 }
