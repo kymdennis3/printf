@@ -5,16 +5,16 @@ public class Main {
                       %[flags] [precision] [width] [conversion-character]
          */
 
-         boolean myBoolean = true;
+         boolean myBoolean = false;
          String myString = "Hello";
          int myInt = 37;
          double myDouble = 1000;
          char myChar = '&';
 
-        //System.out.printf("%b",myBoolean);
+        System.out.printf("%b",myBoolean);
         //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
         //System.out.printf("%f",myDouble);
-        System.out.printf("%s",myString);
+        //System.out.printf("%s",myString);
     }
 }
