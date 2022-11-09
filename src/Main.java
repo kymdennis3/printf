@@ -6,15 +6,15 @@ public class Main {
          */
 
          boolean myBoolean = true;
-         String myString = "Kimtai";
+         String myString = "Hello";
          int myInt = 37;
          double myDouble = 1000;
          char myChar = '&';
 
         //System.out.printf("%b",myBoolean);
         //System.out.printf("%c",myChar);
-        System.out.printf("%d",myInt);
+        //System.out.printf("%d",myInt);
         //System.out.printf("%f",myDouble);
-        //System.out.printf("%s",myString);
+        System.out.printf("%s",myString);
     }
 }
