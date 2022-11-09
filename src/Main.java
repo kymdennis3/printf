@@ -8,12 +8,12 @@ public class Main {
          boolean myBoolean = false;
          String myString = "Hello";
          int myInt = 37;
-         double myDouble = 1000;
+         double myDouble = 0.56;
          char myChar = '#';
          //System.out.printf("%b",myBoolean);
-        System.out.printf("%c",myChar);
+        //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
-        //System.out.printf("%f",myDouble);
+        System.out.printf("%f",myDouble);
         //System.out.printf("%s",myString);
     }
 }
