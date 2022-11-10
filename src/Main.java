@@ -14,6 +14,6 @@ public class Main {
         //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
         //System.out.printf("%f4",myDouble);
-        System.out.printf("%s10",myString);
+        System.out.printf("%s-10",myString);
     }
 }
