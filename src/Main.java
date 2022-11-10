@@ -6,7 +6,7 @@ public class Main {
          */
 
          boolean myBoolean = false;
-         String myString = "Hello";
+         String myString = "Kimtai Dennis";
          int myInt = 37;
          double myDouble = 0.56;
          char myChar = '#';
