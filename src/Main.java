@@ -8,9 +8,9 @@ public class Main {
          boolean myBoolean = false;
          String myString = "Kimtai Dennis";
          int myInt = 37;
-         double myDouble = 0.56;
+         double myDouble = 56;
          char myChar = '#';
-         //System.out.printf("%b",myBoolean);
+         System.out.printf("%b",myBoolean);
         //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
         //System.out.printf("%f4",myDouble);
