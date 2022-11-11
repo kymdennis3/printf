@@ -6,14 +6,14 @@ public class Main {
          */
 
          boolean myBoolean = true;
-         String myString = "Kimtai Dennis";
+         String myString = "What a day!";
          int myInt = 26;
          double myDouble = 56;
          char myChar = '^';
-         System.out.printf("%b",myBoolean);
+         //System.out.printf("%b",myBoolean);
         //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
         //System.out.printf("%f",myDouble);
-       //System.out.printf("Hello %s 10",myString);
+       System.out.printf("Hello %s 10",myString);
     }
 }
