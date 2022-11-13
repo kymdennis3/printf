@@ -6,14 +6,24 @@ public class Main {
          */
 
          //boolean myBoolean = false;
-         String myString = "Kimtai!";
+         //String myString = "Kimtai!";
          //int myInt = 26;
-         //double myDouble = 0.98;
+         double myDouble = 20.98;
          //char myChar = '*';
+
+
          //System.out.printf("%b",myBoolean);
         //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
-        // System.out.printf("%f",myDouble);
-       System.out.printf("Hello %10s",myString);
+
+       /* [width]
+       minimum number of characters to be written as output
+        */
+        //System.out.printf("Hello %-10s",myString);
+
+        /*[precision]
+        sets number of digits of precision when outputting floating-point values
+         */
+        System.out.printf("You have this much money %.1f",myDouble);
     }
 }
