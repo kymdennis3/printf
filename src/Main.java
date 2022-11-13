@@ -33,6 +33,6 @@ public class Main {
           , : comma grouping separator if numbers > 1000
          */
 
-        System.out.printf("You have this much money %-20f",myDouble);
+        System.out.printf("You have this much money %+f",myDouble);
     }
 }
