@@ -8,7 +8,7 @@ public class Main {
          //boolean myBoolean = false;
          //String myString = "Kimtai!";
          //int myInt = 26;
-         double myDouble = 20.98;
+         double myDouble = 2098;
          //char myChar = '*';
 
 
@@ -33,6 +33,6 @@ public class Main {
           , : comma grouping separator if numbers > 1000
          */
 
-        System.out.printf("You have this much money %+f",myDouble);
+        System.out.printf("You have this much money %,f",myDouble);
     }
 }
