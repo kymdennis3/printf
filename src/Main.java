@@ -5,15 +5,15 @@ public class Main {
                       %[flags] [precision] [width] [conversion-character]
          */
 
-         boolean myBoolean = false;
-         String myString = "Tinga!";
-         int myInt = 26;
-         double myDouble = 0.98;
-         char myChar = '*';
-         System.out.printf("%b",myBoolean);
+         //boolean myBoolean = false;
+         String myString = "Kimtai!";
+         //int myInt = 26;
+         //double myDouble = 0.98;
+         //char myChar = '*';
+         //System.out.printf("%b",myBoolean);
         //System.out.printf("%c",myChar);
         //System.out.printf("%d",myInt);
-        //System.out.printf("%f",myDouble);
-       //System.out.printf("Hello %s 10",myString);
+        // System.out.printf("%f",myDouble);
+       System.out.printf("Hello %10s",myString);
     }
 }
