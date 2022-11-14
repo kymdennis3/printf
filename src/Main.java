@@ -6,9 +6,9 @@ public class Main {
          */
 
          //boolean myBoolean = false;
-         //String myString = "Kimtai!";
+         String myString = "How was your day?";
          //int myInt = 26;
-         double myDouble = 2098;
+        // double myDouble = 2098;
          //char myChar = '*';
 
 
@@ -19,7 +19,7 @@ public class Main {
        /* [width]
        minimum number of characters to be written as output
         */
-        //System.out.printf("Hello %-10s",myString);
+        System.out.printf("Hello %40s",myString);
 
         /*[precision]
         sets number of digits of precision when outputting floating-point values
@@ -33,6 +33,6 @@ public class Main {
           , : comma grouping separator if numbers > 1000
          */
 
-        System.out.printf("You have this much money %,f",myDouble);
+        //System.out.printf("You have this much money %,f",myDouble);
     }
 }
