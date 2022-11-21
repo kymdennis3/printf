@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e5ac8094-9226-4f3a-8f9c-37bfb2cad71e" name="Changes" comment="(,) separates numbers over 1000 with a comma">
+    <list default="true" id="e5ac8094-9226-4f3a-8f9c-37bfb2cad71e" name="Changes" comment="put 20 spaces in between the words">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668357787973</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="put 20 spaces in between the words">
+      <created>1668456495446</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1668456495446</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +270,7 @@
     <MESSAGE value="left justified (spaces in the right)" />
     <MESSAGE value="(+f) outputs a + in front of the numeric value" />
     <MESSAGE value="(,) separates numbers over 1000 with a comma" />
-    <option name="LAST_COMMIT_MESSAGE" value="(,) separates numbers over 1000 with a comma" />
+    <MESSAGE value="put 20 spaces in between the words" />
+    <option name="LAST_COMMIT_MESSAGE" value="put 20 spaces in between the words" />
   </component>
 </project>
